@@ -1,0 +1,1087 @@
+[
+{
+"name": "Banana,Bananas",
+"value": "YES",
+"answer": "Yes! Dogs can eat banana,bananas. Bananas are great snacks for dogs. These are tasty fruits, packed with necessary vitamins and nutrients excellent for your dog. "
+},
+{
+"name": "Apple,Apples",
+"value": "YES",
+"answer": "Yes! Dogs can eat apples (of all colors: red, green, yellow). Apple slices are a tasty, healthy snack for your dog that can help keep its teeth clean and its breath fresh. However, the apple core and, in particular, the apple seeds can be toxic to dogs. Just a few apple slices can fulfill your dog's needs. Apples can also be eaten by puppies. If you've never fed them apples before, start with a modest portion, such as a slice or small cube."
+},
+{
+"name": "Strawberry,Strawberries",
+"value": "YES",
+"answer": "Yes! Dogs can eat strawberries. Strawberries are a good source of fiber and vitamin C. They also contain an enzyme that can help whiten your dog's teeth when it consumes them. Because strawberries contain sugar, they should be consumed in moderation. Strawberry protein, which gives that attractive red color, can induce allergic responses in both humans and dogs. Keep an eye out for vomiting, diarrhea, and skin irritation. If this is the case, your dog might have an allergic reaction and therefore it should be taken to the vet."
+},
+{
+"name": "Watermelon,Watermelons",
+"value": "YES",
+"answer": "Yes! Dogs can eat watermelon. Watermelon is one of the best fruits to give to your dog as a treat. Its high moisture and fiber concentration, together with densely packed nutrients, qualify it as a delicacy. Watermelon, like many other fruits, can cause digestive issues to your dog, such as diarrhea, if consumed in excess. Keep your dog's size in mind when feeding it - the smaller your dog is, the less watermelon should eat. While it is extremely unlikely, your pooch may be allergic to watermelon."
+},
+{
+"name": "Blueberry,Blueberries",
+"value": "YES",
+"answer": "Yes! Dogs can eat blueberries. Blueberries are fruits high in antioxidants that protect cells in both people and dogs. Blueberries should be given as a treat and can even be fed on a regular basis if they are included in your dog's vet-recommended daily calorie intake."
+},
+{
+"name": "Grape,Grapes",
+"value": "NO",
+"answer": "No! Dogs can't eat grapes. Unfortunately, even one grape intoxication can be lethal. Ingestion of the fruit could result in acute (unexpected) renal failure in dogs."
+},
+{
+"name": "Pineapple,Pinapples",
+"value": "YES",
+"answer": "Yes! Dogs can eat pineapple. Pineapple is a healthy alternative to packaged treats that it's packed with hydration properties as well as nutrients that support your dog's overall health. The tangy fruit may not be appealing to all dogs, but many find it delicious in smoothies or doggie ice cream."
+},
+{
+"name": "Tomato,Tomatoes",
+"value": "NO",
+"answer": "No! Dogs can eat tomatoes. Ripe, red tomatoes are generally okay to feed to dogs, but only on rare occasions and in limited quantities. Only the the tomatoe's green parts contain a poisonous chemical called solanine.They can induce stomach irritation, especially in dogs with sensitive digestive systems. "
+},
+{
+"name": "Tomato sauce",
+"value": "NO",
+"answer": "No! Dogs shouldn't eat tomato sauce. Because of the extra salt and sugar, as well as any artificial ingredients or other chemicals, tomato sauces, ketchup, soups, or juices aren't particularly good for dogs. Soups and sauces are frequently seasoned with onions and garlic, both of which are poisonous to dogs."
+},
+{
+"name": "Orange,Oranges",
+"value": "YES",
+"answer": "Yes! Dogs can eat oranges. According to vets, dogs can eat oranges, although they may not like any citrus that has a strong smell. Oranges are high in vitamin C, potassium, and fiber, and the juicy fruit of an orange can be a delightful treat for your dog in modest amounts. Overweight or diabetic dogs are NOT allowed to eat oranges."
+},
+{
+"name": "Avocado, Avocados",
+"value": "NO",
+"answer": "No! Dogs can't eat avocado, because it contain persin, a fungicidal toxin that in many animals can cause major health issues, and even death. Veterinarians say dogs are more resistant to persin than other animals, but it doesn't imply avocados are completely safe for your dog to eat. In small quantities your dog can just taste avocado, but be sure you keep an eye on your pup."
+},
+{
+"name": "Bread,Breads",
+"value": "YES",
+"answer": "Yes! Dogs can eat bread. Dogs can eat bread in the same way that humans can, with moderation. Plain white and wheat bread is generally safe for dogs to consume if they do not have any allergies, and it rarely causes stomach trouble."
+},
+{
+"name": "Cheese",
+"value": "YES",
+"answer": "Yes! Dogs can eat cheese, in small amounts. Cheese is high in protein, calcium, vitamin A, omega-3 fatty acids, and B vitamins. Most dogs enjoy cheese, and coaches frequently use it to stimulate treat-motivated dogs. While cheese is ok for your dog, there are a few things to keep in mind. Cheese is high in fat, and giving it to your dog on a daily basis might cause weight gain and obesity. Even worse, it may cause pancreatitis, a dangerous and sometimes fatal sickness in dogs. As a result, it is preferable to serve your dog low-fat cheeses such as mozzarella, cottage cheese, or soft goat cheese. Cottage cheese has less fat and sodium than other cheeses, which helps to lessen the risk of obesity."
+},
+{
+"name": "Rice",
+"value": "YES",
+"answer": "Yes! Dogs can eat rice. Rice is an ingredient that is occasionally seen in commercial dog meals. White rice is a grain that is easy to digest, quick to prepare, and low in fiber, which is why it is the grain of choice for a dog with an upset stomach."
+},
+{
+"name": "Potato,Potatoes",
+"value": "It depends",
+"answer": "It depends! Dogs can consume roasted and baked potatoes as long as no seasonings or other cooking ingredients were used in the preparation. You should never feed raw potatoes to your dog. White potatoes are a part of the nightshade vegetable family, which also includes tomatoes. Raw potatoes, like tomatoes, contain solanine, a chemical that can be poisonous to some dogs. Cooking a potato, on the other hand, reduces the levels of solanine.\nIf you do give your dog a potato, it should be roasted or boiled with no extra ingredients. Potatoes that have been fried in oil, such as french fries or potato chips, or potatoes that have had butter or salt added to them, are not good for dogs."
+},
+{
+"name": "Mashed Potatoes",
+"value": "YES",
+"answer": "Yes! Dogs can mashed potatoes, as long as the potatoes are roasted rather than boiled and no salt, seasonings, milk, or butter are used, your pup will be able to enjoy this all-time favorite food. However, your dog will not gain much nutritional value from eating mashed potatoes."
+},
+{
+"name": "Walnut,Walnuts",
+"value": "NO",
+"answer": "No! You should not feed walnuts to your dog. It's unlikely that your dog will be harmed if he steals a walnut that has fallen from you. However, walnuts should not be given to your dog since they are prone to a sort of black mold that is particularly harmful to dogs, that can provoke intestinal blockage and stomach irritation."
+},
+{
+"name": "Black walnut,Black walnuts",
+"value": "NO",
+"answer": "No! Dogs shouldn't eat black walnuts because it's dangerous, or even deadly. Black walnuts, which are native to the northeastern United States & Canada, are harmful to horses and dogs but not to cats. Black walnuts can cause tremors, vomiting, and seizures if consumed. Tremorgenic mycotoxins found in moldy walnuts can produce muscle tremors, convulsions, panting, vomiting, weakness, elevated heart rates and body temperatures, dehydration, and loss of appetite, among other symptoms."
+},
+{
+"name": "Pickle,Pickles",
+"value": "YES",
+"answer": "Yes! Dogs can eat pickles, but in small quantities. Pickles in their natural state will not harm your dog. A little pickle slice or an occasional pickle will not harm your dog. Pickles are not poisonous to dogs in general. They have some nutritional health benefits, so feeding them to your dog should be ok. They are, however, highly heavy in salt and contain chemicals that may be toxic to a dog."
+},
+{
+"name": "Mango,Mangoes",
+"value": "YES",
+"answer": "Yes! Dogs can eat mango. This refreshing tropical summer treat contains four different vitamins: A, B6, C, and E. It also includes potassium as well as beta-carotene and alpha-carotene. Like most fruits you have to remove the hard pit first, as it contains cyanide and can become a choking hazard. Mango is heavy in sugar, so only give it to your pooch occasionally."
+},
+{
+"name": "Egg,Eggs",
+"value": "YES",
+"answer": "Yes! Dogs can eat eggs. Cooked eggs are beneficial to dogs! Hard-boiled or scrambled eggs are safe for dogs to consume. The primary goal is for the eggs to be cooked. Dogs should not be fed uncooked eggs. More infos about this topic here: https://www.pawmenow.com/can-dogs-eat-eggs/"
+},
+{
+"name": "Almond,Almonds",
+"value": "NO",
+"answer": "No! Dogs can't eat almonds. While almonds are not as hazardous as some nuts, they are one of the foods that dogs cannot digest as easily as humans. can cause stomach and intestinal irritation if consumed. If your dog consumes a few, keep an eye out for the following symptoms: vomiting, diarrhea, appetite loss, lethargy, gas. Go to a vet if this happens."
+},
+{
+"name": "Raspberry,Raspberries",
+"value": "YES",
+"answer": "Yes! Dogs can eat raspberries. Raspberries are high in vitamins, minerals, dietary fiber, and antioxidants. All of them can help your dog's immune system and overall wellness. They do, unfortunately, contain small quantities of xylitol, so keep your dog to no more than a cup of raspberries occasionally."
+},
+{
+"name": "Raw egg,Raw eggs",
+"value": "It depends",
+"answer": "It depends! The consumption of raw eggs is a contentious issue. Although most veterinarians advise frying eggs before feeding them to your dog, some dog owners feed their pets raw eggs. There are a few issues that owners should be aware of while feeding raw eggs to their dogs. You can read more about this subject and the effect raw eggs could have upon your pup, here: https://www.pawmenow.com/can-dogs-eat-eggs/ "
+},
+{
+"name": "Raw meat",
+"value": "It depends",
+"answer": "It depends! Dogs can eat raw meat, but a diet based solely on raw meat may not give your dog with the complete and balanced nutrition he need. Although some doctors do not recommend feeding a raw meat diet, the decision is completely yours. We do recommend that you consult with your veterinarian before feeding your dog with raw meat. Consider a vet that understands your dog's health and is familiar with raw foods, as he or she will be able to aid you in the essential handling required to tackle potential health hazards."
+},
+{
+"name": "Raw chicken",
+"value": "NO",
+"answer": "No! Dogs shouldn't eat raw chicken because of the risk of salmonella or bacterial infections. Although some vets allow dogs to eat raw chicken, you should talk to your vet about this."
+},
+{
+"name": "Radish,Radishes",
+"value": "YES",
+"answer": "Yes! Dogs can eat radishes, in moderation. The crunchy vegetable is safe for dogs and contains vitamins, minerals, and fiber that are beneficial to your dog's health and digestive system."
+},
+{
+"name": "Rib bone,Rib bones",
+"value": "It depends",
+"answer": "It depends! Cooked bones have the potential to split and cause significant internal harm in dogs. Rib bones from table scraps, as well as any other cooked bones, are strictly forbidden. Raw bones can be dangerous and should only be consumed under under supervision."
+},
+{
+"name": "Cicada,Cicadas",
+"value": "It depends",
+"answer": "It depends! According to specialists, if your dog eats a Cicada isn't a cause for concern. A cicada or two will not harm your dog. However, their exoskeletons and shells are difficult to digest, and consuming too many of them can be harmful to a dog's digestive tract. If your dog does experience severe vomiting or diarrhea, contact your vet as soon as possible."
+},
+{
+"name": "Dandelion,Dandelions",
+"value": "YES",
+"answer": "Yes! Dogs can eat dandelions. Dandelion greens are healthy for dogs and provide significant health benefits due to their high vitamin content. Dandelions have no chemicals and are therefore not toxic to your cat or dog. Dogs may eat dandelion blossoms since they contain no poisons. You should not be concerned if your dog consumes this yellow herb."
+},
+{
+"name": "Dragon Fruit",
+"value": "YES",
+"answer": "Yes! Dogs can eat dragon fruit. Your dog is safe to eat dragon fruit because it is not poisonous to dogs! It is nutrient-dense, sweet, and appetizing for your dog, so you should be thrilled."
+},
+{
+"name": "Watermelon rind,Watermelon rinds",
+"value": "NO",
+"answer": "No! Dogs shouldn't eat watermelon rind. Another part of the watermelon that your dog should avoid is the rind. Your dog can chew on the light green section of the rind, but the rind itself is too rough for it. Dogs digestive system is incapable of breaking it down adequately, and like the seeds, it can induce an intestinal blockage. So be careful when you give watermelon to your dog, in general, because seeds could cause an intestinal blockage. Just be sure you remove them before you give it to your dog."
+},
+{
+"name": "Black pepper",
+"value": "It depends",
+"answer": "It depends. Dogs can consume black pepper, but in extra small amount. Large amounts of black pepper are frequently too spicy for your dog, and there are no health benefits to feeding black pepper to your pup. As a result, you should avoid giving black pepper to your dog."
+},
+{
+"name": "Raw broccoli",
+"value": "YES",
+"answer": "Yes. Dogs can eat raw broccoli. Both raw and cooked broccoli are safe to eat in small amounts. Broccoli florets, on the other hand, contain tiny chemicals known as isothiocyanate, which are found in all cruciferous vegetables such as cabbage, cauliflower, and kale. Isothiocyanates can irritate your dog's digestive system. "
+},
+{
+"name": "Broccoli,Broccolis",
+"value": "YES",
+"answer": "Yes. Dogs can eat broccoli. Both raw and cooked broccoli are safe to eat in small amounts. Broccoli florets, on the other hand, contain tiny chemicals known as isothiocyanate, which are found in all cruciferous vegetables such as cabbage, cauliflower, and kale. Isothiocyanates can irritate your dog's digestive system."
+},
+{
+"name": "Potatoes cooked",
+"value": "YES",
+"answer": "Yes. Dogs can eat potatoes cooked. Solanine levels are reduced when potatoes are cooked. If you do give your dog a potato, it should be roasted or boiled with no extra ingredients."
+},
+{
+"name": "Corn kernel,Corn kernels",
+"value": "YES",
+"answer": "Yes. Dogs can eat corn kernel. Corn kennel is more than just a filler in dog food and it also has nutritive benefits. It's high in protein, carbs, linoleic acid, and antioxidants. Given the fact that carbs have a poor reputation, many carbohydrate sources (such as corn) can supply essential nutrients such as vtamins, proteins, fat and, fiber."
+},
+{
+"name": "Ham off the bone",
+"value": "NO",
+"answer": "No. Dogs can't eat ham off the bone. Ham of the bone it is not a safe snack becase of the bone that could get stucked. Plus, it's hard to digest."
+},
+{
+"name": "Snow peas",
+"value": "YES",
+"answer": "Yes. Dogs can eat snow peas. Snow peas, green peas, sugar snap peas, and English or garden peas are all acceptable for dogs to eat occasionally. Peas include numerous vitamins and minerals. They are also well high in protein & fiber. Fresh or frozen peas can be fed to your dog, however processed peas with additional sodium should be avoided."
+},
+{
+"name": "Pistachio,Pistachio nuts",
+"value": "It depends",
+"answer": "It depends! Although pistachio is popular among humans, they might be dangerous to dogs. They can contain Aspergillus mold, which creates aflatoxin and can harm your dog's liver. One or two pistachios shoudn't be toxic to your dog, but you better avoid this."
+},
+{
+"name": "Mandarin,Mandarins",
+"value": "YES",
+"answer": "Yes. Dogs can taste mandarins, in moderation. Sharing a slice of mandarin with your fluffy buddy might not be such a terrible thing. Mandarins are high in acid, which can lead to gastrointestinal upset. So be careful, tho'."
+},
+{
+"name": "Pumkin skin",
+"value": "NO",
+"answer": "No. Dogs can't eat pumkin skin, because is hard to digest. You should also avoid to give yor dog raw pumpkin & the stem."
+},
+{
+"name": "Prawn cracker,Prawn crackers",
+"value": "YES",
+"answer": "No. Dogs shouldn't eat prawn crackers because these are unhealthy treats."
+},
+{
+"name": "Green apple,Green apples",
+"value": "YES",
+"answer": "Yes. Dogs can eat green apples as an excellent snack or treat . Green apples are lower in carbs & sugar than red apples and have somewhat more vitamin A. Just a few apple slices can fulfill your dog's needs. Apples can also be eaten by puppies. If you've never fed them apples before, start with a modest portion, such as a slice or small cube."
+},
+{
+"name": "Red apple,Red apples",
+"value": "YES",
+"answer": "Yes. Dogs can eat red apples as an excellent snack or fresh treat. All color of apples are high in vitamin C, vitamin A, potassium, and antioxidants. Just a few apple slices can fulfill your dog's needs. Apples can also be eaten by puppies. If you've never fed them apples before, start with a modest portion, such as a slice or small cube."
+},
+{
+"name": "Applesauce",
+"value": "YES",
+"answer": "Yes! Dogs can eat applesauce without risk! However, applesauce typically has additional sugars, so buy unsweetened applesauce and give it to pups in moderation. Or you can do it by yourself to be sure is all natural & safely! Applesauce can be frozen in ice cube trays and shared with your pooch after a nice and long walk or on a hot summer day."
+},
+{
+"name": "Squid,Squids",
+"value": "YES",
+"answer": "Yes. Dogs can eat squids. Squids are a great source of zinc, calcium, and iron. Squid has a remarkable and unique texture for dogs to chew on. Give it to your dog in moderation, tho & be sure you're consulting your vet before."
+},
+{
+"name": "Grass",
+"value": "It depends",
+"answer": "It depends. Dogs can eat grass. Dogs chewing grass is actually pretty common, and does not cause too many concerns. The researchers came to the conclusion that grass is a basic instinct in household dogs. Tho, even regular habits can be dangerous at times. Pesticides and herbicides that are poisonous to dogs may be used to treat grass. Chewing grass can also expose dogs to intestinal parasites such as roundworms and hookworms left by animal feces. If you observe your dog eating grass unusually often or lot of it, be on the alert."
+},
+{
+"name": "Mint",
+"value": "It depends",
+"answer": "It depends. Many types of mint are entirely safe for dogs. Mint is included in some dog treats and dog food because it helps with digestion and freshens the breath. Dogs, on the other hand, should ingest no more than just few leaves every day. In the worst case, if your your dog eats that type of mint (harmful to dogs) called English pennyroyal, it may suffer from stomach problems. Excluding the coldest places, it can grow in much of the United States. If your dog vomits, has diarrhea, or becomes weak after eating mint, contact your veterinarian right away."
+},
+{
+"name": "Chia seeds",
+"value": "YES",
+"answer": "Yes. Dogs can eat chia seeds, because it helps regulate blood sugar. Actuality, the chia seeds are among the healthiest nutrients you can add to your dog's daily food, and because they are tiny, they are simple to include into meals. Don't give your pup too many chia seeds at once."
+},
+{
+"name": "Papaya,Papayas",
+"value": "YES",
+"answer": "Yes. Dogs can eat papaya, but in moderation. Papaya is other nutritious treat for dogs that contains high levels of antioxidants vitamin A, vitamin C, and vitamin E. Like its related fruits, the seeds, should never be consumed. Papaya seeds contain tiny levels of cyanide and can induce intestinal obstruction. Before giving this fruit to your dog, cut it into big chunks."
+},
+{
+"name": "Papaya seed,Papaya seeds",
+"value": "NO",
+"answer": "No! You should never give your dog papaya seeds. Papaya seeds contain tiny levels of cyanide and can induce intestinal obstruction. Before giving this fruit to your dog, be sure to cut it into big chunks."
+},
+{
+"name": "Sushi",
+"value": "It depends",
+"answer": "It depends. Sushi made from raw fish is not completely safe. Though plain, raw, sushi-grade fish is generally safe in tiny amounts, the other ingredients in these dishes can be dangerous. Plain white rice is perfectly safe. Some vegetables and fruits are acceptable in little quantities, but others are harmful to dogs. Furthermore, any portions of such foods given to your dog should be free of salt, seasoning, sauces, and additional fats. To be 100% safe avoid giving your dog sushi, or ask your vet how can you make a DIY sushi dog friendly for you pup."
+},
+{
+"name": "Sunflower seeds",
+"value": "YES",
+"answer": "Yes. Dogs can eat sunflower seeds, but in moderation. Sunflower seeds are high in vitamins and nutrients and can be a fantastic treat or supplement for your dog's diet. Sunflower seeds, in addition to being a tasty and delightful treat for your dog, include essential fatty acids, which research has shown can help improve your dog's skin and coat texture."
+},
+{
+"name": "Sunflower butter",
+"value": "YES",
+"answer": "Yes. Dogs can eat sunflower butter, because is a tasty and healthful treat for your pooch when served in tiny amounts. It's high in necessary minerals and vitamins that can help your dog's health. Just keep in mind that the seeds should be salted free, 100% organic flavoring, and peeled before being ground into butter. "
+},
+{
+"name": "Sunflower oil",
+"value": "YES",
+"answer": "Yes. Dogs can consume sunflower oil. Sunflower oil is advised for usage in a home-cooked meals. Talk to your vet about the quantity of sunflower oil you should add in your dog's food, regarding his size and age. But even so, please note that all fats are high in calories, so be sure you avoid large amounts."
+},
+{
+"name": "Liver",
+"value": "YES",
+"answer": "Yes. Dogs can eat liver. Liver is a dog superfood that is both delicious and nutritious to include in their normal intake! Liver is a high in protein and also safe to feed your dog with. Besides its iron, copper, zinc, and necessary fatty acids, liver detoxifies the blood and promotes healthy diet."
+},
+{
+"name": "Garlic",
+"value": "NO",
+"answer": "No. Dogs can't eat garlic. Garlic and other allium \"family members\", like onions, contain thiosulfate, which really is poisonous to dogs. Be sure your dog stays away from them."
+},
+{
+"name": "Onion,Onions",
+"value": "NO",
+"answer": "No. Dogs can't eat onions. Onions and other allium \"family members\", like garlic, contain thiosulfate, which really is poisonous to dogs. Onions contain a poisonous substance known as N-propyl disulfide. This chemical causes the disintegration of red blood cells, resulting in anemia in dogs. Be sure your dog stays away from any type of onion: raw, fried. cooked or powder."
+},
+{
+"name": "Chocolate",
+"value": "NO",
+"answer": "No. Dogs can't eat chocolate. Chocolate is toxic to animals, and depending on the type and quantity of chocolate taken, as well as the weight of your dog, it may lead to major health condition.\nChocolate includes both theobromine and caffeine, which can both increase heart rate and stimulate the nervous system of dogs. Chocolate poisoning is more likely to harm older dogs and dogs with cardiac issues. A single piece of chocolate will not kill your pooch, but an entire chocolate bar could. So be very careful where you leave your sweets."
+},
+{
+"name": "French Fries,Fries",
+"value": "YES",
+"answer": "Yes. Dogs can eat french fries, in moderation, if they are cooked correctly. Some french fries are healthy for dogs to consume, however many types of french fries are harmful to your dog's health. Most french fries are prepared in oil that contains a lot of saturated fat and trans fat, toxic for dogs. Dogs lack the enzyme required to digest these chemicals, which might result in pancreatitis or even other health problems in dogs that consume french fries. To avoid this, make sure your pooch does not consume unhealthy french fries cooked in harmful oils, contain excessive levels of salt, or include other harmful ingredients."
+},
+{
+"name": "Fries with salt",
+"value": "NO",
+"answer": "No. Dogs can't eat fries with salt. French fries have a high sodium levels, which may be dangerous to dogs that already have hypertension or heart disease. This is due to the fact that french fries can cause water retention and raise blood pressure."
+},
+{
+"name": "McDonald's french fries,Mcdonald's french fry",
+"value": "NO",
+"answer": "No. Dogs shouldn't eat McDonald's french fries. While McDonald's fries are tasty, these are not healthy for dogs. They are high salt and fat, and as we know fatty foods cause pancreatitis in dogs."
+},
+{
+"name": "Marshmallow,Marshmallow",
+"value": "NO",
+"answer": "No. Dogs can't marshmallows. Marshmallow ingredients include sugar, water, and gelatin. Because of the sugar from it, vets recommend that dogs should avoid eating marshmallows because dogs can be extremely sensitive to sugar. Marshmallows can be hazardous to your dog, especially if they contain xylitol, therefore avoid giving it such treats."
+},
+{
+"name": "Peanut Butter",
+"value": "YES",
+"answer": "Yes. Dogs can eat peanut butter, if it is given in moderate amounts and does not include xylitol. So, be sure you go for a healthy peanut butter jar."
+},
+{
+"name": "Chilli",
+"value": "NO",
+"answer": "No. Dogs can't chilli. When sharing food with your dog, especially spicy ones, may lead to some major problems than you may realize.  Spicy foods are harmful to dogs and may induce stomach issues such as discomfort, diarrhea, and bloat. Spicy food might sometimes cause your dog to vomit due to extreme thirst. "
+},
+{
+"name": "Quinoa",
+"value": "YES",
+"answer": "Yes. Dogs can eat quinoa. The nutritious seed is included in certain high-quality dry dog diets. Its high nutritional profile gives it a healthier option to wheat, corn and soy."
+},
+{
+"name": "Fish",
+"value": "YES",
+"answer": "Yes. Dogs can eat fish. Fish can be part of a balanced diet for your pup if it is thoroughly cooked without any added oils or seasonings, bones, and without high mercury levels, such as tuna. Some allowed fishes that are safe and fresh: salmon, herring, flounder, whitefish, and Arctic char. Talk with your vet for further details on feeding fish to your pooch. "
+},
+{
+"name": "Tuna",
+"value": "NO",
+"answer": "No. Dogs should avoid eating tuna, in order to not get mercury poisoning. You shouldn't feed saltwater fish to your furry friend since it could create a variety of health issues. Fresh tuna contains far more mercury than other kinds of fish, such as salmon. Excessive mercury consumption can result in mercury poisoning, which can cause serious, even deadly, health consequences. If you chose to give your canine buddy some fish, choose one with poor mercury levels, such salmon, herring or white fish. Consult with your vet before introducing any fish to you pup's meal."
+},
+{
+"name": "Salmon",
+"value": "YES",
+"answer": "Yes. Dogs can eat salmon. Salmon is a great source of omega-3 fatty acids, that boost the immune system, reduce inflammation, and keep your pup's coat shiny and healthy. This is also a great source of protein. Never feed raw or undercooked salmon to your dog, because I t may include the parasite Neorickettsia helminthoeca, that creates salmon toxicity illness. This infection has the chance to be deadly. Furthermore, uncooked salmon has a large number of small bones that are fragile and can suffocate your dog or lodge in his gastrointestinal system.Though, well-cooked, salmon without bones is undoubtedly on the list of dog-friendly human foods. Fresh boneless fillets are preferable since they are less likely to contain tiny bones. However, before cooking, check for small bones. The salmon can then be poached, grilled, roasted, steamed, or baked without any oil, salt & pepper, or other ingredients like garlic or onions."
+},
+{
+"name": "Cereal,Cereals",
+"value": "It depends",
+"answer": "It depends. While dogs can eat many types of cereal, they should only eat cereals as an occasional treat. Some cereals may contain ingredients that are harmful or hazardous to your dog. That's why ask your vet before giving any cereal to you dog."
+},
+{
+"name": "Milk",
+"value": "It depends",
+"answer": "It depends. Milk is a safe treat consumed in small quantities. A few tablespoons of cow's milk or goat's milk from time to time, can be a tasty reward for your dog without having side effects of excess. However, you should usually avoid giving your dog an entire bowl at once because it might induce unpleasant symptoms such as diarrhea, vomiting, and loose feces. Because the milk is strong in fat and organic sugars, you should only give it to your dog in tiny amounts. Dogs, like some people, can be lactose intolerant. That's why, be sure you check that at a vet control."
+},
+{
+"name": "Ice-cream",
+"value": "NO",
+"answer": "No. Dogs can't ice-cream. While the occasional small amount of mango or strawberry sorbet probably won't harm your dog, ice cream shouldn't be a regular treat for your dog. But you can try to make a DIY dog-friendly ice-cream from peanutbutter, banana & yoghurt."
+},
+{
+"name": "Rabbit,Rabbits,Rabbit meat",
+"value": "It depends",
+"answer": "It depends. Dogs can eat rabbit, but if they consume or kill an infected rabbit, they can get, tularemia, an uncommon infection in dogs. Rabbit meat is a good protein option for dogs, but even the tastiest diet cannot be your dog's sole source of nutrition. Dogs require omega fatty acids to maintain their coats and skin healthy, but rabbit does not. That implies your dog will have to receive those nutrients from somewhere else."
+},
+{
+"name": "Pork meat ",
+"value": "It depends",
+"answer": "It depends. Dogs can eat pork meat pork, but you have to follow a certain criteria. Plain pork is acceptable for dogs to consume as long as you keep it basic and leave out the extraneous ingredients that most people use in their cooking. Be sure you give it to your dog in small amounts and always talk with your vet to keep everything under control."
+},
+{
+"name": "Chicken",
+"value": "YES",
+"answer": "Yes. Dogs can eat chicken. But be aware of chicken bones. Chicken bones can be harmful to your dog."
+},
+{
+"name": "Beef",
+"value": "YES",
+"answer": "Yes. Dogs can eat beef. Beef is a good protein source which has been utilized in industrial pet foods for years. It also contains vitamins B12 and B6, as well as zinc, selenium, niacin, phosphorus, choline, iron, and  riboflavin. Be sure you gave it to your dog well-cooked without any fats, oil and seasonings. Avoid raw beef and beef bones."
+},
+{
+"name": "Honey",
+"value": "YES",
+"answer": "Yes. Dogs can eat honey. Honey is considered a superfood due to its numerous health advantages for both humans and dogs. Be sure to give it to your dog, only in small amounts, tho'."
+},
+{
+"name": "Carrot,Carrots",
+"value": "YES",
+"answer": "Yes. Dogs can eat carrots. Carrots are a low-calorie snack that is strong in fiber and beta-carotene, which is converted into vitamin A. Furthermore, crunching on this orange veggie is good for your dog's teeth, and it is found in many dog meals."
+},
+{
+"name": "Cucumber,Cucumber",
+"value": "YES",
+"answer": "Yes. Dogs can eat cucumber. Cucumbers are a healthy and safe treat for your puppy or dog to consume. Cucumbers are packed with nutrients! They're low in salt and sugar, and almost fat-free. As a result, this crunchy vegetable contains very few calories, making it a perfect treat for dogs that are controlling their weight."
+},
+{
+"name": "Olive,Olives",
+"value": "YES",
+"answer": "Yes. Dogs can eat olives. Olives are safe for dogs to eat in moderation. They contain numerous vitamins and minerals that are essential for human health, even though dogs fed a healthy and balanced diet do not require these extra nutrients. Plain, unsalted olives, on the other hand, can be a healthy food for your dog. Avoid canned olives."
+},
+{
+"name": "Seed,Seeds",
+"value": "YES",
+"answer": "Yes. Dogs can eat seeds.Yes, dogs can consume seeds. In fact, they can be a healthy, nutritious addition to your dog's diet. Seeds contain protein, fiber, amino acids, lipids, vitamins, minerals, and other micronutrients. You can use them as an element in your dog's homemade meals or as a dog food topper."
+},
+{
+"name": "Sea food,Sea foods",
+"value": "YES",
+"answer": "Yes. Dogs can eat sea food. When prepared appropriately, seafood is an excellent and safe supplement to your dog's diet. Seafood can supplement their current diet and aid to compensate for nutritional inadequacies. Dogs may eat shrimp, lobsters, and crab if they are cooked and completely cleaned of their shells and disgusting pieces. Avoid tuna, clams, scallops, oysters, raw salmon and smoked salmon, farmed fish, shrimp tails and shrimp shells. Be sure to always ask to your vet before giving any seafood."
+},
+{
+"name": "Burger,Burgers",
+"value": "It depends.",
+"answer": "It depends. Plain hamburger meat with no extra salt or seasonings is a nutritious source of protein for your dog. Although cooked hamburger poses a lesser risk of food-borne illness, most bacteria are killed by dogs' strong stomach acid. Making sure there is no onion or garlic cooked inside the meat, as both are toxic to dogs."
+},
+{
+"name": "Parmesan,Parmesan Cheese",
+"value": "NO",
+"answer": "No. Dogs can't eat parmesan. Parmesan contains high levels of salt. Feeding your dog too much salty food in general can induce high blood pressure, which can eventually lead to organ damage. Parmesan cheese, blue cheese, cheddar, feta cheese, all grilled cheeses are all high in salt and should be avoided by your dog. Also, because of its low lactose content, parmesan may be gentler on your dog's digestive system than other cheeses. However, in high quantities, your dog may have gastrointestinal irritation."
+},
+{
+"name": "Pizza",
+"value": "NO",
+"answer": "No. Dogs can't eat pizza. You should never give your dog pizza as a meal or a treat. Many basic pizza toppings, such as onions and garlic, are considered harmful to dogs, and some may be toxic. Furthermore, pepperoni, ham, sardines, and sausages are heavy in salt and fat. Excessive salt consumption may raise your dog's blood pressure or complicate preexisting heart problems. Due to the increased fat, they may experience a minor stomach upset if they are sensitive to dairy, but in most situations, dogs are OK if they just taste a bite. If your dog consumed a considerable quantity of pizza and you are concerned, contact your vet."
+},
+{
+"name": "Pasta",
+"value": "YES",
+"answer": "Yes. Dogs can eat pasta. Plain, cooked or uncooked pasta is usually safe for dogs. Pasta is often produced with simple ingredients such as eggs, flour, and water. These ingredients are suitable for dogs to consume. Raw or powder garlic and onions,or other spice aren't that healthful."
+},
+{
+"name": "Jelly, Jellies ",
+"value": "NO",
+"answer": "No. Dogs can't eat jellies.  Always check the ingredients before you give your dog anything meant for humans.  Xylitol is sometimes found in low-sugar or sugar-free products. It’s in chewing gum and toothpaste, too. Jelly is  simply pureed cooked fruit with extra sugar, that can be toxic for dogs.Some brands of jelly use xylitol as a sweetener, which  is poisonous to dogs.\nIf your dog consumes xylitol, contact your vet instantly because even a small amount can be lethal. Xylitol causes a significant reduction in a dog's blood pressure, resulting in vomiting, weakness, seizures, and even coma. Because jelly has a high glycemic index, sugar-free alternatives are frequently available.  Ideally, you should not give your dog anything that contains sugars."
+},
+{
+"name": "Jelly Bean,Jelly Beans",
+"value": "NO",
+"answer": "No. Dogs can't eat jelly beans. Giving your dog jelly beans is not a wise idea. Always check the ingredients to see if they include xylitol or caffeine if your dog has accidentally consumed some. Jelly beans are hazardous to dogs and can result in death if consumed."
+},
+{
+"name": "Cabbage,Cabbages",
+"value": "YES",
+"answer": "Yes. Dogs can eat cabage, but only small amounts.Cabbage contains a high concentration of vitamins K, C, B6, and B1. It's also high in fiber and vital minerals like manganese, potassium, and copper. One of the most serious risks of cabbage for dogs is the same as it is for humans: eating too much of this can induce stomach discomfort and symptoms such as abundant gas and flatulence. Just because something is good for dogs, it does not imply they should be permitted to eat as much as they want."
+},
+{
+"name": "Spicy food",
+"value": "NO",
+"answer": "No. Dogs can't eat spicy food. Sharing your food with your dogs, particularly spicy meals, may create more issues than you realize. Spicy foods can be harmful to dogs and cause stomach issues such as discomfort, diarrhea, and gas. Spicy food can also produce excessive thirst, which can lead to vomiting in your dog."
+},
+{
+"name": "Arugula",
+"value": "YES",
+"answer": "Yes. Dogs can eat aragula. Arugula is low in calories and fat, making it a great low-calorie treat for your dog. Arugula, like any other leafy green vegetable, such as kale or spinach, includes a high concentration of chlorophyll, that helps digestion and bad breath in your dog and boosts their immune system."
+},
+{
+"name": "Coke",
+"value": "NO",
+"answer": "No. Dogs can't consume coke. A pet may enjoy the sweet flavor of coke, but the extra sugars or artificial sweeteners are not good for their system. Xylitol is a common sugar replacement found in sugar-free or diet foods, is hazardous for dogs and can cause problems with the dog's blood sugar regulation. Hypoglycemia, or low blood sugar, is one of these issues. Ingesting xylitol might cause convulsions or possibly liver failure. As a result, it's advisable to avoid giving your dog any sugary human meals or drinks."
+},
+{
+"name": "Coffee",
+"value": "NO",
+"answer": "No. Dogs shouldn't consume coffee. I know coffee may be our daily delight, but for our furry friends is toxic. Caffeine, which is found in coffee beans, grounds, and brewed coffee, is a very poisonous and deadly toxin to dogs and other pets. Regular consumption can result in death. Never try giving your pup coffee. "
+},
+{
+"name": "Hot chocolate",
+"value": "NO",
+"answer": "No. Dogs can't consume hot chocolate. Chocolate, cocoa powder, and pre-made hot cocoa mixes can all be toxic for your dog. Chocolate is toxic to dogs because, besides sugar and cocoa powder, it includes two poisonous chemical compounds. Chocolate contains theobromine and caffeine, both poisonous to dogs' systems. Theobromine is the primary cause of chocolate toxicity. Moreover, your dog might get burned while tasting the hot chocolate."
+},
+{
+"name": "Beer",
+"value": "NO",
+"answer": "No. Dogs can't consume beer. Beer is harmful for dogs, and they should never drink beer, even the smallest amount, because the alcohol can cause intoxication in your beloved dog. Alcohol in any form should be forbidden for pets."
+},
+{
+"name": "Water",
+"value": "YES",
+"answer": "Of course! What you've been thinking? Water is essential for the health and well-being of your dog."
+},
+{
+"name": "Cheeseburger,Cheeseburgers",
+"value": "NO",
+"answer": "No. Dogs can't eat cheeseburger. If you get a fast-food hamburger, it almost certainly has extra salt, spices, and toppings that are harmful to dogs. But, if you want to grill a plain patty, unseasoned, the cooked meat can be a nutritious protein source in addition to your dog's usual healthy diet."
+},
+{
+"name": "Hamburger,Hamburgers",
+"value": "NO",
+"answer": "No. Dogs can't eat hamburger. Only the plain meat from it, without garlic, onion or any added ingredients."
+},
+{
+"name": "Steak",
+"value": "YES",
+"answer": "Yes. Dogs can eat steak. Steak can be a great dish of your dog's healthy diet when cooked properly without seasoning, and eaten in moderation because it is high in protein, iron, omega-6 fatty acids, and other minerals and nutrients that a dog requires to maintain a healthy lifestyle. "
+},
+{
+"name": "Raw Steak",
+"value": "It depends",
+"answer": "It depends. This topic is a bit controversial, so we’ll cover it based on what doggie experts say. Some dog owners feed their dogs a raw meat diet, which is based on the idea that dogs, historically, have thrived on eating raw meat and not on eating processed foods like many dog foods are nowadays. Those for a raw food diet say that the diet can improve the look and feel of a dog’s coat, improve digestion, and boost energy, among other benefits. On contrary, stating that feeding a dog raw meat can be harmful to both the dog and his humans. Raw meat poses a risk for salmonella, listeria, and other harmful bacteria that can cause severe stomach and digestive upsets to dogs, and even runs the risk of contaminating you and your home when you serve it. To keep you and your pup as safe as possible, we recommend cooking a piece of steak before feeding it."
+},
+{
+"name": "Steak bones",
+"value": "YES",
+"answer": "Yes. Dogs can eat steak bones, but only raw. When given raw, steak bones are safe for dogs to eat as long as your dog has a health check and outstanding dental health. In addition, your dog should chew with self-control rather than shredding and swallowing everything that enters its mouth. Don't give your dog cooked or seasoned T-bones or a bone that has been broken. It makes more sense to use raw steak bones. Old butcher's bones should be avoided since they may carry E-Coli, salmonella, and other pathogens. When bones with meat are not consumed within a few days, these germs grow."
+},
+{
+"name": "Steak fat",
+"value": "NO",
+"answer": "No. Dogs should avoid eating steak fat. Steak fat is not generally toxic or unsafe for dogs, but it can have long-term effects on your dog's health, especially if fed on a frequent basis. Dogs that eat fatty foods like steak fat on a daily basis, are considerably more likely to get health disorders like pancreatitis, which can lead to health consequences. A small amount of steak fat, on the other hand, is improbable to be harmful if consumed rarely."
+},
+{
+"name": "Chicken bones",
+"value": "NO",
+"answer": "No. Dogs can't eat chicken bones. Splintered cooked bones can cause significant internal injury in dogs. Chicken bones from table scraps, as well as any other prepared bones, are strictly forbidden. Raw bones can be dangerous and should always be consumed under under supervision. Dogs should only consume unseasoned chicken bones under supervision."
+},
+{
+"name": "Oatmeal",
+"value": "YES",
+"answer": "Yes. Dogs can't eat oatmeal. Oatmeal is good source of fiber and rich in nutrients, minerals, and antioxidants. When consumed in moderation, oatmeal can help a dog in a number of ways. Oatmeal contains vitamin B, which aids in the maintenance of a healthy coat, as well as linoleic acid, a form of omega-6 fatty acid that aids in the maintenance of a dog's skin.\nIt's also high in soluble fiber, which can benefit dogs with irregular bowel motions and control blood sugar levels. Feeding your dog high-fiber diets can cause gastrointestinal discomfort, including diarrhea and vomiting. When making oatmeal for your canine buddy, use water instead of milk."
+},
+{
+"name": "Porridge",
+"value": "YES",
+"answer": "Yes. Dogs can't eat porridge."
+},
+{
+"name": "Chicken nuggets",
+"value": "NO",
+"answer": "No. Dogs can't eat chicken nuggets."
+},
+{
+"name": "Halloumi ",
+"value": "NO",
+"answer": "No. Dogs can't eat halloumi."
+},
+{
+"name": "Soya",
+"value": "YES",
+"answer": "Yes. Dogs can eat soy as long as they do not have a confirmed soy allergy. It does, however, matter how much soy your dog consumes. Before introducing anything new to your dog, always consult with your veterinarian."
+},
+{
+"name": "Soy",
+"value": "YES",
+"answer": "Yes. Dogs can eat soy as long as they do not have a confirmed soy allergy. It does, however, matter how much soy your dog consumes. Before introducing anything new to your dog, always consult with your veterinarian."
+},
+{
+"name": "Chicken skin ",
+"value": "NO",
+"answer": "No. Dogs can't eat chicken skin."
+},
+{
+"name": "Chicken liver",
+"value": "YES",
+"answer": "Yes. Dogs can eat chicken liver. Chicken liver is a healthy source of vitamins and minerals for dogs. "
+},
+{
+"name": "Chicken feet",
+"value": "YES",
+"answer": "Yes. Dogs can eat dehydrated and puffed chicken feet because they are safe to eat, and because of the amazing health advantages they provide for your dog's teeth."
+},
+{
+"name": "Chicken neck,Chicken necks",
+"value": "YES",
+"answer": "Yes. Dogs can eat chicken neck."
+},
+{
+"name": "Chicken gizzards",
+"value": "YES",
+"answer": "Yes. Dogs can eat dehydrated and puffed chicken feet because they are safe to eat, and because of the amazing health advantages they provide for your dog's teeth."
+},
+{
+"name": "Noodle soup",
+"value": "YES",
+"answer": "Yes. Dogs can eat noodle soup, in moderation, especially if it is dog-friendly and homemade."
+},
+{
+"name": "Mushroom,Mushrooms",
+"value": "YES",
+"answer": "Yes. Dogs can eat mushrooms, but cook them before feeding your dog. Never give raw mushrooms to your dog. Raw mushrooms are difficult for dogs to digest, and they can also make your dog sick, causing stomach trouble such as vomiting, diarrhea or both. Be sure you also avoid wild mushrooms that are toxic to dogs."
+},
+{
+"name": "Salad,Salads",
+"value": "YES",
+"answer": "Yes. Dogs can eat salads."
+},
+{
+"name": "Lettuce",
+"value": "YES",
+"answer": "Yes. Dogs can eat lettuce."
+},
+{
+"name": "Shrimp,Shrimps",
+"value": "YES",
+"answer": "Yes. Dogs can eat shrimps."
+},
+{
+"name": "Sausage,Sausages",
+"value": "NO",
+"answer": "No. Dogs can't eat sausages."
+},
+{
+"name": "Pepper",
+"value": "NO",
+"answer": "No. Dogs can't eat pepper."
+},
+{
+"name": "Bell Pepper,Bell Peppers",
+"value": "YES",
+"answer": "Yes. Dogs can eat bell pepper. Bell peppers, also known as capiscums are a healthy snack to share with your dog. Any color bell pepper provides necessary vitamins and nutrients that are good for a dog's health, but the red ones are the most nutritious."
+},
+{
+"name": "Capsicum",
+"value": "YES",
+"answer": "Yes. Dogs can eat capiscum. Capiscum, also known as belle pepper is a healthy snack to share with your dog. Any color of capiscum provides necessary vitamins and nutrients that are good for a dog's health, but the red ones are the most nutritious."
+},
+{
+"name": "Flaxseed,Flaxseeds",
+"value": "YES",
+"answer": "Yes. Dogs can eat flaxseed."
+},
+{
+"name": "Yogurt,Yoghurt",
+"value": "YES",
+"answer": "Yes. Dogs can eat yogurt."
+},
+{
+"name": "Ayran",
+"value": "NO",
+"answer": "No. Dogs can't eat ayran."
+},
+{
+"name": "Greek yogurt",
+"value": "YES",
+"answer": "Yes. Dogs can eat greek yogurt."
+},
+{
+"name": "Buttermilk",
+"value": "YES",
+"answer": "Yes. Dogs can eat buttermilk, in moderation."
+},
+{
+"name": "Condensed milk",
+"value": "NO",
+"answer": "No. Dogs can't consume condensed milk."
+},
+{
+"name": "Pork steak",
+"value": "YES",
+"answer": "Yes. Dogs can eat pork steak."
+},
+{
+"name": "Pork",
+"value": "YES",
+"answer": "Yes. Dogs can eat pork, but not raw."
+},
+{
+"name": "Croissant,Croissants",
+"value": "NO",
+"answer": "No. Dogs can't eat croissant."
+},
+{
+"name": "Yeast dough",
+"value": "NO",
+"answer": "No. Dogs can't eat yeas dough."
+},
+{
+"name": "Salt",
+"value": "NO",
+"answer": "No. Dogs can't eat salt."
+},
+{
+"name": "Macadamia Nuts",
+"value": "NO",
+"answer": "No. Dogs can't eat macadamia nuts."
+},
+{
+"name": "Raisins",
+"value": "NO",
+"answer": "No. Dogs can't eat raisins."
+},
+{
+"name": "Dairy Products",
+"value": "NO",
+"answer": "No. Dogs can't eat dairy products."
+},
+{
+"name": "Chickpeas",
+"value": "YES",
+"answer": "Yes. Dogs can eat chickpeans."
+},
+{
+"name": "Beans",
+"value": "YES",
+"answer": "Yes. Dogs can eat beans."
+},
+{
+"name": "Green peas",
+"value": "YES",
+"answer": "Yes. Dogs can eat green peas."
+},
+{
+"name": "Red beans",
+"value": "YES",
+"answer": "Yes. Dogs can eat red beans."
+},
+{
+"name": "Kidney beans",
+"value": "YES",
+"answer": "Yes. Dogs can eat kidney beans."
+},
+{
+"name": "Peas",
+"value": "YES",
+"answer": "Yes. Dogs can eat peas."
+},
+{
+"name": "Lentil",
+"value": "YES",
+"answer": "Yes. Dogs can eat lentil."
+},
+{
+"name": "Sweet Potato,Sweet Potatoes",
+"value": "YES",
+"answer": "Yes. Dogs can eat sweet potatoes. Because sweet potatoes are more nutritious than white potatoes, they are a better choice. Among other nutrients, they include vitamin A, vitamin C, vitamin B6, calcium, potassium, magnesium, and iron."
+},
+{
+"name": "Asparagus",
+"value": "YES",
+"answer": "Yes. Dogs can eat asparagus."
+},
+{
+"name": "Cauliflower",
+"value": "YES",
+"answer": "Yes. Dogs can eat cauliflower."
+},
+{
+"name": "Brussels sprouts",
+"value": "YES",
+"answer": "Yes. Dogs can eat brussels sprouts."
+},
+{
+"name": "Zucchini",
+"value": "YES",
+"answer": "Yes. Dogs can eat zucchini."
+},
+{
+"name": "Melon",
+"value": "YES",
+"answer": "Yes. Dogs can eat melon."
+},
+{
+"name": "Cantaloupe",
+"value": "YES",
+"answer": "Yes. Dogs can eat cantaloupe."
+},
+{
+"name": "Eggplant,Eggplants",
+"value": "YES",
+"answer": "Yes. Dogs can eat eggplant."
+},
+{
+"name": "Tofu",
+"value": "YES",
+"answer": "Yes. Dogs can eat tofu."
+},
+{
+"name": "Leek",
+"value": "NO",
+"answer": "No. Dogs can't eat leek."
+},
+{
+"name": "Kohlrabi",
+"value": "YES",
+"answer": "Yes. Dogs can eat kohlrabi."
+},
+{
+"name": "Cinnamon",
+"value": "YES",
+"answer": "Yes. Dogs can eat cinnamon."
+},
+{
+"name": "Horseradish",
+"value": "NO",
+"answer": "No. Dogs can't eat horseradish."
+},
+{
+"name": "Lemon,Lemons",
+"value": "NO",
+"answer": "No. Dogs can't eat lemon."
+},
+{
+"name": "Lime,Limes",
+"value": "NO",
+"answer": "No. Dogs can't eat lime."
+},
+{
+"name": "Grapefruit,Grapefruits",
+"value": "NO",
+"answer": "No. Dogs can't eat grapefruit."
+},
+{
+"name": "Pomelo,Pomelos",
+"value": "YES",
+"answer": "Yes. Dogs can eat pomelo."
+},
+{
+"name": "Coconut",
+"value": "YES",
+"answer": "Yes. Dogs can eat coconut."
+},
+{
+"name": "Corn",
+"value": "YES",
+"answer": "Yes. Dogs can eat corn."
+},
+{
+"name": "Ham",
+"value": "It depends.",
+"answer": "It depends. Opinions are odd. While some are arguing that ham isn't healthy for dogs, others claim that ham is a fairly digestible protein source. The ham from the supermarket has a massively high salt level, which can induce increased thirst, that can cause to bloat, a potentially fatal illness. Bloat happens when a dog's stomach becomes overfilled with gas, food, or liquids, causing it to inflate. Dogs will become thirsty and consume an unusual volume of water given the high salt level in ham. Bearing all of these precautions in mind, it's unlikely that giving your pup a piece of ham will harm him. However, it is safe to preserve the large amount of ham for yourself in order to avoid unpleasant situations."
+},
+{
+"name": "Turkey",
+"value": "YES",
+"answer": "Yes. Dogs can eat turkey."
+},
+{
+"name": "Wheat",
+"value": "YES",
+"answer": "Yes. Dogs can eat wheat."
+},
+{
+"name": "Grains",
+"value": "NO",
+"answer": "No. Dogs can't eat grains."
+},
+{
+"name": "Alcohol",
+"value": "NO",
+"answer": "No. Dogs can't consume alcohol. Alcohol is toxic for dogs."
+},
+{
+"name": "Tea",
+"value": "YES",
+"answer": "Yes. Dogs can consume tea."
+},
+{
+"name": "Persimmons",
+"value": "YES",
+"answer": "Yes. Dogs can eat persimmons, but without seeds."
+},
+{
+"name": "Peach,Peaches",
+"value": "YES",
+"answer": "Yes. Dogs can eat peaches."
+},
+{
+"name": "Nectarine,Nectarines",
+"value": "YES",
+"answer": "Yes. Dogs can eat nectarines."
+},
+{
+"name": "Plum,Plums",
+"value": "YES",
+"answer": "Yes. Dogs can eat plums."
+},
+{
+"name": "Jam,Jams",
+"value": "NO",
+"answer": "No. Dogs can't eat jam."
+},
+{
+"name": "Chips",
+"value": "NO",
+"answer": "No. Dogs can't eat chips."
+},
+{
+"name": "Iceberg salad",
+"value": "YES",
+"answer": "Yes. Dogs can eat iceberg salad."
+},
+{
+"name": "Soda",
+"value": "NO",
+"answer": "No. Dogs can't drink soda."
+},
+{
+"name": "Juice",
+"value": "YES",
+"answer": "Yes. Dogs can drink juice, only natural and in small amounts."
+},
+{
+"name": "Cocoa powder",
+"value": "NO",
+"answer": "No. Dogs can't eat cocoa powder."
+},
+{
+"name": "Pumpkin",
+"value": "YES",
+"answer": "Yes. Dogs can eat pumkin."
+},
+{
+"name": "Goat cheese",
+"value": "NO",
+"answer": "No. Dogs can't eat goat cheese."
+},
+{
+"name": "Brie cheese",
+"value": "NO",
+"answer": "No. Dogs can't eat brie cheese."
+},
+{
+"name": "Brie",
+"value": "NO",
+"answer": "No. Dogs can't eat brie."
+},
+{
+"name": "Feta cheese",
+"value": "NO",
+"answer": "No. Dogs can't eat feta cheese."
+},
+{
+"name": "Feta",
+"value": "NO",
+"answer": "No. Dogs can't eat feta."
+},
+{
+"name": "Cheddar cheese",
+"value": "YES",
+"answer": "Yes. Dogs can eat cheddar cheese."
+},
+{
+"name": "Cheddar",
+"value": "YES",
+"answer": "Yes. Dogs can eat cheddar."
+},
+{
+"name": "Cottage cheese",
+"value": "YES",
+"answer": "Yes. Dogs can eat cottage cheese, in small amounts."
+},
+{
+"name": "Sweetener",
+"value": "NO",
+"answer": "No. Dogs can't eat sweetener."
+},
+{
+"name": "Mustard",
+"value": "NO",
+"answer": "No. Dogs can't eat mustard."
+},
+{
+"name": "Brown rice",
+"value": "YES",
+"answer": "Yes. Dogs can eat brown rice."
+},
+{
+"name": "Barbecue sauce",
+"value": "NO",
+"answer": "No. Dogs can't eat barbecue sauce."
+},
+{
+"name": "Hot pepper,Hot peppers ",
+"value": "NO",
+"answer": "No. Dogs can't eat hot pepper."
+},
+{
+"name": "Kidney ",
+"value": "YES",
+"answer": "Yes. Dogs can eat kidney."
+},
+{
+"name": "Butter",
+"value": "It depends",
+"answer": "It depends. Yes, dogs can eat butter, but it is not advised. While butter is not harmful to dogs, it provides no health benefits and the excessive fat content poses genuine health hazards."
+},
+{
+"name": "Hummus",
+"value": "NO",
+"answer": "No. Dogs can't eat hummus."
+},
+{
+"name": "Peanut,Peanuts",
+"value": "it depends",
+"answer": "It depends. Restrict your dog's peanut consumption to a few peanuts per day, and do not feed peanuts as a daily treat. Honey-roasted peanuts and other flavored nuts are also hazardous to your dog's health."
+},
+{
+"name": "Dark chocolate",
+"value": "NO",
+"answer": "No. Dogs can't eat dark chocolate."
+},
+{
+"name": "Popcorn",
+"value": "It depends",
+"answer": "It depends. In limited amounts, plain, air-popped popcorn is safe for dogs to eat. Buttered popcorn or popcorn with other toppings is not suitable for your dog to eat on a regular basis, though a few dropped bits here and there are unlikely to harm it."
+},
+{
+"name": "Sparkling water",
+"value": "YES",
+"answer": "Yes. Dogs can drink sparkling water."
+},
+{
+"name": "Tortilla,Tortillas",
+"value": "It depends",
+"answer": "It depends. Plain flour tortillas will not to harm your dog if consumed in moderation. Some pets, however, have wheat allergies or sensitivity to grains and thrive on grain-free diets. Flour tortillas aren't the finest alternative for your pet because they have little nutritional value."
+},
+{
+"name": "Flat bread",
+"value": "YES",
+"answer": "Yes. Dogs can eat flat bread."
+},
+{
+"name": "Noodles (Ramen)",
+"value": "It depends",
+"answer": "It depends. While ramen noodles should be consumed in moderation, they are generally safe for dogs."
+},
+{
+"name": "Cake,Cakes",
+"value": "NO",
+"answer": "No. Dogs can't eat cake."
+},
+{
+"name": "Cookie,Cookies",
+"value": "NO",
+"answer": "No. Dogs can't eat cookies."
+},
+{
+"name": "Sushi ",
+"value": "NO",
+"answer": "No. Dogs shouldn't eat sushi. Sushi contains raw fish, that may be harmful to dogs. Sushi is produced from very salty rice, which may induce stomach discomfort or diarrhea in some dog breeds."
+},
+{
+"name": "Cat",
+"value": "NO",
+"answer": "I caught you! I hope it's just pure curiosity and you weren't going to give your dog a fried cat. Dogs do not eat cats unless they are extremely hungry, which will not occur in a well-cared-for dog. A stray dog may murder and consume a cat since it has no other food sources. Even if he does end up killing it, this will not happen to a dog that has a full food bowl at home."
+},
+{
+"name": "Meat",
+"value": "YES",
+"answer": "Yes! Dogs can eat meat. Animal proteins such as chicken, turkey, lean ground beef, and chuck steak or roast help dogs become stronger. Be sure to always cook the meat well. Ask your vet if you want to give your doggo raw meat. Also, avoid bacon and ham. "
+},
+{
+"name": "Omelette",
+"value": "YES",
+"answer": "Yes! Dogs can omelette. Be careful, tho, to avoid fats and spices, onion and garlic, oil and butter. To make a tasty and healthy omblette for your pooch you can add pulled grilled chicken (without bones & skin) or salmon (for vitamins and protein), or even belle peppers that contain beta-carotene and are high in vitamin C."
+},
+{
+"name": "Grounded beef,Ground beed",
+"value": "YES",
+"answer": "Yes! Dogs can eat ground beef. Beef is a highly nutritious source of protein that boosts your dog's vitality. Beef also contains essential fatty acids such omega-6, as well as vitamins and minerals that encourage a healthy skin and coat, muscles and joints in your pup."
+},
+{
+"name": "Bacon",
+"value": "NO",
+"answer": "No! Dogs shouldn't eat bacon. Bacon is extremely rich and fatty with a high concentration of salt that can be too much for a dog's digestion. A significant amount can result in pancreatitis, that can be potentially lethal."
+},
+{
+"name": "Scrambled eggs, Scrambled egg",
+"value": "YES",
+"answer": "Yes! Dogs can eat scrambled eggs, but only in little amounts and carefully cooked. Avoid fats, oils, or spicy seasonings."
+},
+{
+"name": "Mushroom omelette",
+"value": "It depends",
+"answer": "It depends. Omelette without fats, oils, or spicy seasonings is okay for dogs to eat, whereas mushrooms are a touchy matter. That mushrooms grown for human consumption are safe for dogs to eat. Wild mushrooms, for example, can be harmful and cause intoxication. Finally, it is advised to avoid mushroom omelette."
+},
+{
+"name": "Xylitol",
+"value": "NO",
+"answer": "No. Dogs can't eat xylitol. Xylitol is a natural chemical that is commonly used as a sugar substitute. Dogs are particularly sensitive to xylitol. In dogs, even little doses of xylitol can result in hypoglycemia, seizures, liver failure, and even death."
+},
+{
+"name": "Sugar",
+"value": "NO",
+"answer": "No. Dogs can't eat sugar. Sugar is harmful to dogs and can cause stomach upset, metabolic problems, and teeth decay (gum disease) if consumed on a regular basis. Be sure your pup will stay away from sweets or any sugar related food."
+},
+{
+"name": "Sardines",
+"value": "YES",
+"answer": "Yes. Dogs can eat sardines only uncannedSardines are high in vital amino acids, Omega-3 fatty acids, vitamins, and minerals, which can benefit your dog's health significantly."
+}
+];
